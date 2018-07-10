@@ -17,3 +17,9 @@ Preview:
 ![sample output](https://camo.githubusercontent.com/5b1b75b2842d38d8e7fba3707969ff1351b89e38/687474703a2f2f692e696d6775722e636f6d2f6e334b326c68342e706e67)
 
 ![sample output](https://camo.githubusercontent.com/01bdc001853496114564062467916bf7e7854865/687474703a2f2f692e696d6775722e636f6d2f706b4f70584c582e706e67)
+
+
+
+$ make
+<br />
+$ ./fdf ~/Desktop/maps/test_maps/mars.fdf
