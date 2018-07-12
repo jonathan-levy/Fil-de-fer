@@ -8,6 +8,9 @@ The coordonates are store in a file and pass as a parameter:
 ![map](https://camo.githubusercontent.com/83bc066a2092d26e494d489ff0c7728e2126de95/687474703a2f2f692e696d6775722e636f6d2f775a516a4e53622e706e67)
 
 
+<br/>
+Two test maps are included in the repo
+
 You could create your own map here:
 
 https://github.com/jgigault/42MapGenerator
