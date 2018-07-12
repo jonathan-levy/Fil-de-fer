@@ -23,7 +23,4 @@ Preview:
 <br />
 $ make
 <br />
-#### Usage : ####
-<br />
-<br />
 $ ./fdf ~/Desktop/maps/test_maps/mars.fdf
