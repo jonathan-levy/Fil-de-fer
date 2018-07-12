@@ -18,10 +18,12 @@ Preview:
 
 ![sample output](https://camo.githubusercontent.com/01bdc001853496114564062467916bf7e7854865/687474703a2f2f692e696d6775722e636f6d2f706b4f70584c582e706e67)
 
-Commands to launch the app
+#### Commands to launch the app :
+<br />
 <br />
 $ make
 <br />
-Usage :
+#### Usage :
+<br />
 <br />
 $ ./fdf ~/Desktop/maps/test_maps/mars.fdf
