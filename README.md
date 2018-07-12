@@ -1,9 +1,9 @@
 # Fil-de-fer
 ### 3d rendering using wireframe
 
-FDF is an App that creates a graphic reprensentation a field by linking dots to one another with lines.
+FDF is an App that creates a graphic reprensentation of a field, by plotting dots then linking them to one another with lines.
 
-The coordonates are store in a file, pass as an parameter:
+The coordonates are store in a file and pass as a parameter:
 
 ![map](https://camo.githubusercontent.com/83bc066a2092d26e494d489ff0c7728e2126de95/687474703a2f2f692e696d6775722e636f6d2f775a516a4e53622e706e67)
 
@@ -21,5 +21,7 @@ Preview:
 Commands to launch the app
 <br />
 $ make
+<br />
+Usage :
 <br />
 $ ./fdf ~/Desktop/maps/test_maps/mars.fdf
