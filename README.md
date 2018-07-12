@@ -22,4 +22,4 @@ Preview:
 <br />
 $ make
 <br />
-$ ./fdf ~/Desktop/maps/test_maps/mars.fdf
+$ ./fdf ~/{the.path.to.my.map/mars.fdf
