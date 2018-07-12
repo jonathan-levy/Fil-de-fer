@@ -20,7 +20,6 @@ Preview:
 
 #### Commands to launch the app : ####
 <br />
-<br />
 $ make
 <br />
 $ ./fdf ~/Desktop/maps/test_maps/mars.fdf
