@@ -10,7 +10,7 @@ The coordonates are store in a file and pass as a parameter:
 
 <br/>
 Two test maps are included in the repo
-
+<br/>
 You could create your own map here:
 
 https://github.com/jgigault/42MapGenerator
