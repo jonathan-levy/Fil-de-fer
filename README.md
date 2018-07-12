@@ -22,4 +22,4 @@ Preview:
 <br />
 $ make
 <br />
-$ ./fdf ~/{the.path.to.my.map/mars.fdf
+$ ./fdf ~/{the.path.to.my.map}/mars.fdf
